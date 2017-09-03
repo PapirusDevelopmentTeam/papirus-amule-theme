@@ -27,7 +27,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#d3dae3"
+     pagecolor="#5c616c"
      bordercolor="#666666"
      borderopacity="1"
      objecttolerance="10"
@@ -55,18 +55,18 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#d3dae3; } .ColorScheme-Highlight { color:#5294e2; }
+   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; }
   </style>
   </defs>
   <path
      inkscape:connector-curvature="0"
-     style="color:#d3dae3;opacity:1;fill:currentColor"
+     style="color:#5c616c;opacity:1;fill:currentColor"
      class="ColorScheme-Text"
      d="M 6,10 10.5,15.5 15,10 c -0.003,0.004 -1.3333,0 -2,0 l 0,-3 -5,0 0,3 -2,0 z"
      id="path7" />
   <path
      inkscape:connector-curvature="0"
-     style="color:#d3dae3;opacity:0.3;fill:currentColor"
+     style="color:#5c616c;opacity:0.3;fill:currentColor"
      class="ColorScheme-Text"
      d="M 0,6 C 0.003,5.996 1.3333,6 2,6 L 2,9 7,9 7,6 9,6 4.5,0.5 0,6 Z"
      id="path9" />

@@ -60,12 +60,12 @@
      transform="translate(0,-1036.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#d3dae3;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:round"
+       style="fill:none;stroke:#5c616c;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:round"
        d="m 2.000037,1040.3627 0,7.9995 3.999747,0 0,0"
        id="path24" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;stroke:#d3dae3;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel"
+       style="fill:none;stroke:#5c616c;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel"
        d="m 10.014084,1044.3481 c 0,0 3.999751,0.4645 3.999751,-1.9999 0,-2.4643 -3.999751,-1.9998 -3.999751,-1.9998 m 9.8e-5,7.9996 0,-7.9995"
        id="path32" />
   </g>
