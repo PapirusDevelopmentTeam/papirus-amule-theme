@@ -4,19 +4,24 @@
   <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-amule-theme/master/preview.png" alt="preview"/>
 </p>
 
-# System Requriments
+## Installation
 
-- git
-- make
-- librsvg2-bin
-- zip
+###  Manual Install
 
-# Install
+1. Install dependencies:
 
-##  Manual Install
+    - git
+    - make
+    - librsvg2-bin
+    - zip
 
-```
-git clone https://github.com/PapirusDevelopmentTeam/papirus-amule-theme.git
-make -C papirus-amule-theme build
-sudo make -C papirus-amule-theme install
-```
+2. Run the following commands:
+
+    ```
+    git clone https://github.com/PapirusDevelopmentTeam/papirus-amule-theme.git
+    cd papirus-amule-theme
+    make build
+    sudo make install
+    ```
+
+3. Start aMule and choose a theme in `Preferences → Interface → Skin to use`.
