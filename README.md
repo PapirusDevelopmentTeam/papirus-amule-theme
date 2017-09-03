@@ -1,16 +1,16 @@
 # Papirus aMule Theme
 Papirus icons for aMule
 
-# SYSTEM REQUIREMENTS
+# System Requriments
 
 - git
 - make
 - librsvg2-bin
 - zip
 
-# INSTALL
+# Install
 
-##  MANUAL INSTALL
+##  Manual Install
 
 ```
 git clone https://github.com/PapirusDevelopmentTeam/papirus-amule-theme.git
