@@ -19,7 +19,7 @@ convert:
 dist: $(ZIPS)
 
 $(ZIPS): %.zip : | $(BUILD_DIR)/%
-	zip -j $@ $(BUILD_DIR)/$*/*
+	zip -j $@ AUTHORS LICENSE $(BUILD_DIR)/$*/*
 
 install:
 
