@@ -1,5 +1,8 @@
 # Papirus aMule Theme
-Papirus icons for aMule
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-amule-theme/master/preview.png" alt="preview"/>
+</p>
 
 # System Requriments
 
