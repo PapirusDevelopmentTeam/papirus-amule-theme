@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1" viewBox="0 0 16 16">
  <g transform="translate(0,-1036.3622)">
-  <path style="fill:none;stroke:#eeefef;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel" d="m 2.0141786,1048.3479 3.999748,0 m -3.999748,-3.9997 3.999748,0 m -3.999748,-3.9998 3.999748,0 m -3.999649,7.9996 0,-7.9995"/>
-  <path style="fill:none;stroke:#eeefef;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.014134,1048.3544 c 0,0 4.043528,0.3502 3.999748,-3.9998 -0.04378,-4.3499 -3.999748,-3.9997 -3.999748,-3.9997 m -0.0141,7.9931 0,-7.9995"/>
+  <path style="fill:none;stroke:#cfd8dc;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel" d="m 2.0141786,1048.3479 3.999748,0 m -3.999748,-3.9997 3.999748,0 m -3.999748,-3.9998 3.999748,0 m -3.999649,7.9996 0,-7.9995"/>
+  <path style="fill:none;stroke:#cfd8dc;stroke-width:1.999874;stroke-linecap:round;stroke-linejoin:bevel" d="m 10.014134,1048.3544 c 0,0 4.043528,0.3502 3.999748,-3.9998 -0.04378,-4.3499 -3.999748,-3.9997 -3.999748,-3.9997 m -0.0141,7.9931 0,-7.9995"/>
  </g>
 </svg>
